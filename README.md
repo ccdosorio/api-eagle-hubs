@@ -14,4 +14,4 @@ https://www.postman.com/galileolibrary/workspace/eagle-hubs/collection/4090844-b
 * Name: Christian David Osorio Chacon
 * Email: ccdosorio11@gmail.com
 * Country: Guatemala
-* No. phone: 4096 2591# api-eagle-hubs
+* No. phone: 4096 2591
